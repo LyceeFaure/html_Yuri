@@ -26,6 +26,7 @@ h3 {
 }
 
 p {
+    text-align: center;
     font-family: Verdana; /*change la police d'écriture des paragraphes à Verdana*/
     margin-left: 20px;
     margin-right: 100px;
