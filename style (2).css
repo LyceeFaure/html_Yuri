@@ -1,0 +1,83 @@
+body    {
+background: #EEEEEE;
+width: 950px;
+font-family: sans-serif;
+font-size: 20px; 
+padding: 10px 30px;
+line-height: 24px;     
+}
+
+h1 { 
+font-family: fantasy;
+font-size: 42px;
+color: cornflowerblue;
+margin-right: 30%;
+padding-bottom: 16px;  
+border-bottom: 7px solid #6F8FAF;
+}
+
+h2 { 
+font-family: 'Lucida Console';
+font-size: 35px;
+color: #3077DC;
+padding-bottom: 10px;
+border-bottom: 5px solid #6F8FAF;
+}
+
+h3 {
+font-family: 'Lucida Console';
+color: #1F51FF;
+padding-left: 10px;
+}
+
+p { 
+font-family: 'Lucida Console';
+font-size: 25px;
+margin-left: 30px; 
+padding-left: 10px;
+}
+
+header {
+width: 100%;
+font-size: 14px;
+font-weight: bold;
+margin: 20px auto 30px auto;
+}
+
+header p { 
+font-family: 'Lucida Console';
+font-size: 15px;
+color: #333;
+border-left: 0; 
+margin-top: 20px;
+}
+
+header ul {
+font-size: 20px;
+font-weight: bold;
+color: #6495ED;
+border-left: none; 
+}
+
+aside { 
+margin-right: 15px
+} 
+
+ul {
+font-family : 'Lucida Console';
+color : #6F8FAF;
+margin-left: 30px; 
+border-left: 5px solid #6F8FAF;
+}
+
+.gris_italique {
+font-style: italic; 
+font-size: 16px; 
+font-weight: normal;
+color: #999; 
+}
+
+#photo {
+width: 300px;
+float: right;
+}
